@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast, co
 
 I'm a frontend developer and innovator with interests in:  
 - **Web Development**: React.js, Next.js, Tailwind CSS, Framer Motion  
-- **Blockchain Technology**: dApp development on Ethereum and Tron  
 - **IoT and Cloud**: Firestore integrations and sensor-based projects  
 - **Data Visualization**: Crafting insights with tools like Chart.js  
 - **Problem-Solving**: Exploring advanced algorithms and optimization techniques  
@@ -17,13 +16,11 @@ I'm a frontend developer and innovator with interests in:
 - **Languages**: JavaScript, TypeScript, Python, HTML/CSS  
 - **Libraries/Frameworks**: React, Next.js, Tailwind CSS, Prisma, Framer Motion  
 - **Databases**: PostgreSQL, Firebase  
-- **Tools**: Solaar, Nodemailer, BlueDevil, Manjaro GNOME  
-- **IoT Platforms**: ESP32, Firestore  
-- **Blockchain Tools**: Smart Contracts, NFT minting, TRX transactions  
+- **Tools**: Solaar, Nodemailer  
+- **IoT Platforms**: ESP32, Arduino UNO  
 
 ## 🌱 Currently Learning  
 
-- Optimizing blockchain dApp development  
 - SaaS development for cloud-based printing  
 - Advanced data visualizations  
 
@@ -39,10 +36,10 @@ I thrive in hackathon environments where I can push the boundaries of my skills!
 
 ## 📫 Let's Connect  
 
-- LinkedIn: [Kaushik's LinkedIn](#)  
-- Portfolio: [Your Portfolio URL](#)  
-- Email: [kaushik.email@example.com](mailto:kaushik.email@example.com)  
-- Leetcode: [Kaushik's Leetcode Profile](#)  
+- LinkedIn: [Kaushik's LinkedIn](https://www.linkedin.com/in/kaushiksaha176/)  
+<!-- - Portfolio: [Your Portfolio URL]()   -->
+- Email: [kaushik.email@example.com](mailto:kaushik004@gmail.com)  
+- Leetcode: [Kaushik's Leetcode Profile](https://leetcode.com/u/kaushiksaha004/)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kaushik1766)](https://github.com/Kaushik1766/github-profile-trophy)  
 
