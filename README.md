@@ -38,7 +38,7 @@ I thrive in hackathon environments where I can push the boundaries of my skills!
 
 - LinkedIn: [Kaushik's LinkedIn](https://www.linkedin.com/in/kaushiksaha176/)  
 <!-- - Portfolio: [Your Portfolio URL]()   -->
-- Email: [kaushik.email@example.com](mailto:kaushik004@gmail.com)  
+- Email: [kaushiksaha004@gmail.com](mailto:kaushik004@gmail.com)  
 - Leetcode: [Kaushik's Leetcode Profile](https://leetcode.com/u/kaushiksaha004/)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Kaushik1766)](https://github.com/Kaushik1766/github-profile-trophy)  
