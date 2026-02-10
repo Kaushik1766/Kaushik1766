@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast, co
 
 ## 🚀 About Me  
 
-I'm a frontend developer and innovator with interests in:  
+I'm a fullstack developer and innovator with interests in:  
 - **Web Development**: React.js, Next.js, Tailwind CSS, Framer Motion  
 - **IoT and Cloud**: Firestore integrations and sensor-based projects  
 - **Data Visualization**: Crafting insights with tools like Chart.js  
